@@ -1,0 +1,12 @@
+Dear ${PERSON_NAME},
+
+You are assigned to this email. You have to do this work in a day.
+Please login to the webteam zimbra portal.
+Here is the subject of your assigned email.
+${EMAIL_SUBJECT}
+
+Your Truly
+WebMaster
+The GIK WebTeam.
+http://www.giki.edu.pk/
+
