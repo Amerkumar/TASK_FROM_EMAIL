@@ -11,8 +11,8 @@ from threading import Thread
 
 
 ORG_EMAIL = "@gmail.com"
-FROM_EMAIL = "gikwebteam" + ORG_EMAIL
-FROM_PWD = "p*w4my4*8b6ag6x"
+FROM_EMAIL = ""
+FROM_PWD = ""
 SMTP_SERVER = "imap.gmail.com"
 SMTP_PORT = 993
 
